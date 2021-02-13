@@ -4,6 +4,8 @@ Brickblast game built with HTML / CSS & Vanilla Javascript. Use your left and ri
 
 If you miss the ball, your score and the blocks will reset.
 
+Live on Netlify: https://affectionate-kare-100033.netlify.app/
+
 # More Info
 
 
